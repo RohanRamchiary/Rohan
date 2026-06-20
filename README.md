@@ -1,3 +1,3 @@
 # Rohan
 This is my first git repo
-Author - Rohan Ramchiary
+Author - Rohan Ramchiary.
